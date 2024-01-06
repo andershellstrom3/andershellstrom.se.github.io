@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: 
+Allow: /
+Host: andershellstrom.se
+Sitemap: https://andershellstrom.se/sitemap.xml
